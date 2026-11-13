@@ -1,0 +1,13 @@
+{
+  "name": "keyrank-skills",
+  "displayName": "Rank tracking skills",
+  "version": "0.1.0",
+  "description": "Weekly rank report, cannibalization finder and AI Overview gap finder over stored rank-tracking history from the KeyRank MCP server.",
+  "author": {
+    "name": "KeyRank",
+    "url": "https://www.key-rank.com"
+  },
+  "homepage": "https://www.key-rank.com/docs/mcp",
+  "license": "MIT",
+  "keywords": ["seo", "rank-tracking", "mcp", "ai-overview", "cannibalization"]
+}

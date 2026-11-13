@@ -1,0 +1,16 @@
+{
+  "name": "keyrank",
+  "description": "Claude Code skills for rank-tracking data from the KeyRank MCP server.",
+  "owner": {
+    "name": "KeyRank",
+    "url": "https://www.key-rank.com"
+  },
+  "plugins": [
+    {
+      "name": "keyrank-skills",
+      "source": "./",
+      "description": "Weekly rank report, cannibalization finder and AI Overview gap finder.",
+      "category": "seo"
+    }
+  ]
+}
